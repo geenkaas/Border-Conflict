@@ -3,25 +3,18 @@
 <Document>
 	<name>border-conflict.kml</name>
 	<open>1</open>
-	<StyleMap id="roman_republic01">
+	
+	<StyleMap id="roman_republic">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#roman1</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#roman02</styleUrl>
+			<styleUrl>#roman2</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="roman0">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>1.5</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
+	
 	<Style id="roman1">
 		<LineStyle>
 			<color>ff0200b8</color>
@@ -31,62 +24,6 @@
 			<color>660200b8</color>
 		</PolyStyle>
 	</Style>
-	<Style id="roman">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>1.5</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<Style id="roman10">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>1.5</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<Style id="roman00">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>1.5</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="roman_republic0">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#roman2</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#roman01</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="roman01">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>1.5</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="roman_republic00">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#roman</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#roman00</styleUrl>
-		</Pair>
-	</StyleMap>
 	<Style id="roman2">
 		<LineStyle>
 			<color>ff0200b8</color>
@@ -96,25 +33,7 @@
 			<color>660200b8</color>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="roman_republic010">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#roman10</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#roman0</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="roman02">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>1.5</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
+	
 	<Folder>
 		<name>Border Conflict</name>
 		<open>1</open>
@@ -123,7 +42,7 @@
 			<open>1</open>
 			<TimeSpan>
 				<begin>-753</begin>
-				<end>1453</end>
+				<end>250</end>
 			</TimeSpan>
 			<Folder>
 				<name>Romans</name>
@@ -133,13 +52,14 @@
 					<open>1</open>
 					<Folder id="Roman Kingdom">
 						<name>Roman Kingdom</name>
+						<open>1</open>
 						<Placemark>
 							<name>753 BC - Rome</name>
 							<TimeSpan>
 								<begin>-753</begin>
-								<end>-338</end>
+								<end>-341</end>
 							</TimeSpan>
-							<styleUrl>#roman_republic01</styleUrl>
+							<styleUrl>#roman_republic</styleUrl>
 							<Polygon>
 								<outerBoundaryIs>
 									<LinearRing>
@@ -153,13 +73,14 @@
 					</Folder>
 					<Folder id="Roman Republic">
 						<name>Roman Republic</name>
+						<open>1</open>
 						<Placemark>
 							<name>396 BC - Veii</name>
 							<TimeSpan>
 								<begin>-396</begin>
-								<end>-338</end>
+								<end>-341</end>
 							</TimeSpan>
-							<styleUrl>#roman_republic01</styleUrl>
+							<styleUrl>#roman_republic</styleUrl>
 							<Polygon>
 								<outerBoundaryIs>
 									<LinearRing>
@@ -171,12 +92,13 @@
 							</Polygon>
 						</Placemark>
 						<Placemark>
-							<name>338 BC - Latin Wars</name>
+							<name>341 BC - Latin Wars</name>
+							<open>1</open>
 							<TimeSpan>
-								<begin>-338</begin>
-								<end>-341</end>
+								<begin>-341</begin>
+								<end>-338</end>
 							</TimeSpan>
-							<styleUrl>#roman_republic01</styleUrl>
+							<styleUrl>#roman_republic</styleUrl>
 							<Polygon>
 								<outerBoundaryIs>
 									<LinearRing>
@@ -188,14 +110,15 @@
 							</Polygon>
 						</Placemark>
 						<Folder>
-							<name>341 BC - Samnite wars</name>
+							<name>338 BC - Samnite wars</name>
+							<open>1</open>
 							<Placemark>
-								<name>341 BC - Samnite War I</name>
+								<name>338 BC - Samnite War I</name>
 								<TimeSpan>
-									<begin>-341</begin>
+									<begin>-338</begin>
 									<end>-304</end>
 								</TimeSpan>
-								<styleUrl>#roman_republic00</styleUrl>
+								<styleUrl>#roman_republic</styleUrl>
 								<Polygon>
 									<outerBoundaryIs>
 										<LinearRing>
@@ -207,12 +130,13 @@
 								</Polygon>
 							</Placemark>
 							<Placemark>
-								<name>341 BC - Namia</name>
+								<name>338 BC - Namia</name>
+								<open>1</open>
 								<TimeSpan>
-									<begin>-341</begin>
+									<begin>-338</begin>
 									<end>-290</end>
 								</TimeSpan>
-								<styleUrl>#roman_republic0</styleUrl>
+								<styleUrl>#roman_republic</styleUrl>
 								<Polygon>
 									<tessellate>1</tessellate>
 									<outerBoundaryIs>
@@ -226,11 +150,12 @@
 							</Placemark>
 							<Placemark>
 								<name>304 BC - Samnite War II</name>
+								<open>1</open>
 								<TimeSpan>
 									<begin>-304</begin>
 									<end>-290</end>
 								</TimeSpan>
-								<styleUrl>#roman_republic01</styleUrl>
+								<styleUrl>#roman_republic</styleUrl>
 								<Polygon>
 									<outerBoundaryIs>
 										<LinearRing>
@@ -243,11 +168,12 @@
 							</Placemark>
 							<Placemark>
 								<name>290 BC - Samnite War III</name>
+								<open>1</open>
 								<TimeSpan>
 									<begin>-290</begin>
 									<end>-278</end>
 								</TimeSpan>
-								<styleUrl>#roman_republic01</styleUrl>
+								<styleUrl>#roman_republic</styleUrl>
 								<Polygon>
 									<outerBoundaryIs>
 										<LinearRing>
@@ -261,13 +187,15 @@
 						</Folder>
 						<Folder>
 							<name>278 BC - Phyrric Wars</name>
+							<open>1</open>
 							<Placemark>
 								<name>278 BC - Phyrric War</name>
+								<open>1</open>
 								<TimeSpan>
 									<begin>-278</begin>
 									<end>-264</end>
 								</TimeSpan>
-								<styleUrl>#roman_republic010</styleUrl>
+								<styleUrl>#roman_republic</styleUrl>
 								<Polygon>
 									<outerBoundaryIs>
 										<LinearRing>
