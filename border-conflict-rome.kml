@@ -27,7 +27,7 @@
 	<Style id="roman2">
 		<LineStyle>
 			<color>ff0200b8</color>
-			<width>1.5</width>
+			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>660200b8</color>
