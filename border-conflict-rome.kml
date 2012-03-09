@@ -15,11 +15,11 @@
 	<StyleMap id="roman_republic">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#roman101</styleUrl>
+			<styleUrl>#roman1</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#roman201</styleUrl>
+			<styleUrl>#roman2</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Style id="roman1">
