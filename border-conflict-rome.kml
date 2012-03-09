@@ -3,15 +3,6 @@
 <Document>
 	<name>border-conflict-rome.kml</name>
 	<open>1</open>
-	<Style id="sn_ylw-pushpin">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>1.5</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
 	<StyleMap id="roman_republic">
 		<Pair>
 			<key>normal</key>
@@ -25,35 +16,7 @@
 	<Style id="roman1">
 		<LineStyle>
 			<color>ff0200b8</color>
-			<width>1.5</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin0">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>1.5</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="msn_ylw-pushpin">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_ylw-pushpin">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>3</width>
+			<width>2</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>660200b8</color>
@@ -62,26 +25,7 @@
 	<Style id="roman2">
 		<LineStyle>
 			<color>ff0200b8</color>
-			<width>3</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="msn_ylw-pushpin0">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin0</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin0</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_ylw-pushpin0">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>3</width>
+			<width>2</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>660200b8</color>
@@ -812,7 +756,7 @@
 							<begin>-129</begin>
 							<end>0500</end>
 						</TimeSpan>
-						<styleUrl>#msn_ylw-pushpin</styleUrl>
+						<styleUrl>#roman_republic</styleUrl>
 						<Polygon>
 							<tessellate>1</tessellate>
 							<outerBoundaryIs>
