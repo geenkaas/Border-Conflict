@@ -3,91 +3,7 @@
 <Document>
 	<name>border-conflict-rome.kml</name>
 	<open>1</open>
-	<Style id="roman102">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<Style id="roman22">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<Style id="roman1020">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<Style id="roman1">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="roman_republic4">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#roman102</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#roman2501</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="roman_republic2">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#roman104</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#roman2</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="roman_republic40">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#roman10</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#roman25</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="roman250">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<Style id="roman10">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<Style id="roman100">
+	<Style id="roman2502">
 		<LineStyle>
 			<color>ff0200b8</color>
 			<width>2</width>
@@ -106,191 +22,7 @@
 			<styleUrl>#roman21</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="roman2100">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<Style id="roman1010">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<Style id="roman24">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="roman_republic41">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#roman1022</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#roman2502</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="roman2500">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="roman_republic3">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#roman103</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#roman26</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="roman11">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<Style id="roman1021">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<Style id="roman105">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<Style id="roman26">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<Style id="roman101">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<Style id="roman220">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<Style id="roman23">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="roman_republic42">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#roman1024</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#roman250</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="roman103">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<Style id="roman20">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<Style id="roman2">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="roman_republic5">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#roman1010</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#roman220</styleUrl>
-		</Pair>
-	</StyleMap>
 	<Style id="roman25">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<Style id="roman2501">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<Style id="roman2502">
 		<LineStyle>
 			<color>ff0200b8</color>
 			<width>2</width>
@@ -308,7 +40,7 @@
 			<color>660200b8</color>
 		</PolyStyle>
 	</Style>
-	<Style id="roman104">
+	<Style id="roman220">
 		<LineStyle>
 			<color>ff0200b8</color>
 			<width>2</width>
@@ -317,6 +49,70 @@
 			<color>660200b8</color>
 		</PolyStyle>
 	</Style>
+	<Style id="roman1020">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
+	<Style id="roman2">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
+	<Style id="roman20">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
+	<Style id="roman103">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
+	<Style id="roman10">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
+	<Style id="roman1024">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="roman_republic2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#roman104</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#roman2</styleUrl>
+		</Pair>
+	</StyleMap>
 	<StyleMap id="roman_republic10">
 		<Pair>
 			<key>normal</key>
@@ -327,7 +123,44 @@
 			<styleUrl>#roman20</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="roman21">
+	<Style id="roman2100">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="roman_republic4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#roman102</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#roman2501</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="roman102">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
+	<Style id="roman26">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
+	<Style id="roman23">
 		<LineStyle>
 			<color>ff0200b8</color>
 			<width>2</width>
@@ -346,17 +179,7 @@
 			<styleUrl>#roman24</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="roman_republic50">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#roman101</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#roman22</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="roman1023">
+	<Style id="roman1021">
 		<LineStyle>
 			<color>ff0200b8</color>
 			<width>2</width>
@@ -365,16 +188,6 @@
 			<color>660200b8</color>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="roman_republic1">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#roman100</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#roman23</styleUrl>
-		</Pair>
-	</StyleMap>
 	<Style id="roman2503">
 		<LineStyle>
 			<color>ff0200b8</color>
@@ -384,17 +197,7 @@
 			<color>660200b8</color>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="roman_republic0">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#roman11</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#roman2100</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="roman1024">
+	<Style id="roman104">
 		<LineStyle>
 			<color>ff0200b8</color>
 			<width>2</width>
@@ -423,6 +226,203 @@
 			<styleUrl>#roman2500</styleUrl>
 		</Pair>
 	</StyleMap>
+	<Style id="roman2500">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
+	<Style id="roman1023">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="roman_republic5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#roman1010</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#roman220</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="roman_republic1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#roman100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#roman23</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="roman_republic3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#roman103</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#roman26</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="roman_republic50">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#roman101</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#roman22</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="roman101">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
+	<Style id="roman100">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
+	<Style id="roman2501">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
+	<Style id="roman250">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
+	<Style id="roman22">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
+	<Style id="roman24">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="roman_republic40">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#roman10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#roman25</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="roman21">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
+	<Style id="roman11">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
+	<Style id="roman1010">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
+	<Style id="roman1">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="roman_republic42">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#roman1024</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#roman250</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="roman_republic41">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#roman1022</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#roman2502</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="roman_republic0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#roman11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#roman2100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="roman105">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
 	<Folder>
 		<name>Border Conflict</name>
 		<open>1</open>
@@ -1398,6 +1398,7 @@
 				</Folder>
 				<Folder>
 					<name>Africa</name>
+					<open>1</open>
 					<Placemark>
 						<name>146 BC - Carthago</name>
 						<TimeSpan>
@@ -1438,7 +1439,7 @@
 						<name>19 BC - Morroco</name>
 						<TimeSpan>
 							<begin>-019</begin>
-							<end>0014</end>
+							<end>0043</end>
 						</TimeSpan>
 						<styleUrl>#roman_republic42</styleUrl>
 						<Polygon>
@@ -1453,9 +1454,9 @@
 						</Polygon>
 					</Placemark>
 					<Placemark>
-						<name>14 AD - Carthago</name>
+						<name>43 AD - Mauretania</name>
 						<TimeSpan>
-							<begin>0014</begin>
+							<begin>43</begin>
 							<end>0500</end>
 						</TimeSpan>
 						<styleUrl>#roman_republic42</styleUrl>
@@ -1587,7 +1588,7 @@
 						<name>50 BC - Asia Minor</name>
 						<TimeSpan>
 							<begin>-050</begin>
-							<end>-43</end>
+							<end>-006</end>
 						</TimeSpan>
 						<styleUrl>#roman_republic44</styleUrl>
 						<Polygon>
@@ -1605,7 +1606,7 @@
 						<name>43 BC - Lycia</name>
 						<open>1</open>
 						<TimeSpan>
-							<begin>-043</begin>
+							<begin>-050</begin>
 							<end>-006</end>
 						</TimeSpan>
 						<styleUrl>#roman_republic42</styleUrl>
