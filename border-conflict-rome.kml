@@ -3,109 +3,7 @@
 <Document>
 	<name>border-conflict-rome.kml</name>
 	<open>1</open>
-	<StyleMap id="roman_republic1">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#roman100</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#roman230</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="roman103">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="roman_republic5">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#roman1010</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#roman220</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="roman105">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<Style id="roman21">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<Style id="roman2100">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<Style id="roman2502">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="roman_republic3">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#roman103</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#roman26</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="roman2">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<Style id="roman10">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<Style id="roman2501">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<Style id="roman1010">
+	<Style id="roman1020">
 		<LineStyle>
 			<color>ff0200b8</color>
 			<width>2</width>
@@ -123,35 +21,7 @@
 			<color>660200b8</color>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="roman_republic10">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#roman1</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#roman20</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="roman104">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<Style id="roman250">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<Style id="roman1024">
+	<Style id="roman23">
 		<LineStyle>
 			<color>ff0200b8</color>
 			<width>2</width>
@@ -170,17 +40,26 @@
 			<styleUrl>#roman250</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="roman_republic">
+	<Style id="roman1010">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="roman_republic5">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#roman1020</styleUrl>
+			<styleUrl>#roman1010</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#roman21</styleUrl>
+			<styleUrl>#roman220</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="roman1040">
+	<Style id="roman220">
 		<LineStyle>
 			<color>ff0200b8</color>
 			<width>2</width>
@@ -189,52 +68,7 @@
 			<color>660200b8</color>
 		</PolyStyle>
 	</Style>
-	<Style id="roman102">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<Style id="roman2500">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<Style id="roman100">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<Style id="roman26">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<Style id="roman22">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<Style id="roman11">
+	<Style id="roman1022">
 		<LineStyle>
 			<color>ff0200b8</color>
 			<width>2</width>
@@ -253,6 +87,35 @@
 			<styleUrl>#roman22</styleUrl>
 		</Pair>
 	</StyleMap>
+	<StyleMap id="roman_republic40">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#roman10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#roman25</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="roman_republic">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#roman1020</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#roman21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="roman2502">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
 	<Style id="roman20">
 		<LineStyle>
 			<color>ff0200b8</color>
@@ -262,7 +125,17 @@
 			<color>660200b8</color>
 		</PolyStyle>
 	</Style>
-	<Style id="roman2503">
+	<StyleMap id="roman_republic20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#roman104</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#roman2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="roman2500">
 		<LineStyle>
 			<color>ff0200b8</color>
 			<width>2</width>
@@ -271,6 +144,16 @@
 			<color>660200b8</color>
 		</PolyStyle>
 	</Style>
+	<StyleMap id="roman_republic1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#roman100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#roman230</styleUrl>
+		</Pair>
+	</StyleMap>
 	<Style id="roman25">
 		<LineStyle>
 			<color>ff0200b8</color>
@@ -280,7 +163,7 @@
 			<color>660200b8</color>
 		</PolyStyle>
 	</Style>
-	<Style id="roman24">
+	<Style id="roman21">
 		<LineStyle>
 			<color>ff0200b8</color>
 			<width>2</width>
@@ -289,7 +172,7 @@
 			<color>660200b8</color>
 		</PolyStyle>
 	</Style>
-	<Style id="roman1023">
+	<Style id="roman2">
 		<LineStyle>
 			<color>ff0200b8</color>
 			<width>2</width>
@@ -298,16 +181,80 @@
 			<color>660200b8</color>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="roman_republic43">
+	<Style id="roman10">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="roman_republic3">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#roman1021</styleUrl>
+			<styleUrl>#roman103</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#roman2503</styleUrl>
+			<styleUrl>#roman26</styleUrl>
 		</Pair>
 	</StyleMap>
+	<Style id="roman1021">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="roman_republic6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#roman105</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#roman24</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="roman1024">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
+	<Style id="roman105">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
+	<Style id="roman102">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
+	<Style id="roman100">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
 	<StyleMap id="roman_republic2">
 		<Pair>
 			<key>normal</key>
@@ -316,6 +263,16 @@
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#roman23</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="roman_republic10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#roman1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#roman20</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Style id="roman1">
@@ -327,35 +284,27 @@
 			<color>660200b8</color>
 		</PolyStyle>
 	</Style>
-	<Style id="roman23">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<Style id="roman1020">
-		<LineStyle>
-			<color>ff0200b8</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>660200b8</color>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="roman_republic44">
+	<StyleMap id="roman_republic4">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#roman1023</styleUrl>
+			<styleUrl>#roman102</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#roman2500</styleUrl>
+			<styleUrl>#roman2501</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="roman220">
+	<StyleMap id="roman_republic43">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#roman1021</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#roman2503</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="roman1023">
 		<LineStyle>
 			<color>ff0200b8</color>
 			<width>2</width>
@@ -365,6 +314,15 @@
 		</PolyStyle>
 	</Style>
 	<Style id="roman230">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
+	<Style id="roman2200">
 		<LineStyle>
 			<color>ff0200b8</color>
 			<width>2</width>
@@ -383,46 +341,15 @@
 			<styleUrl>#roman2100</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="roman_republic40">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#roman10</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#roman25</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="roman_republic4">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#roman102</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#roman2501</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="roman_republic20">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#roman104</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#roman2</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="roman_republic6">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#roman105</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#roman24</styleUrl>
-		</Pair>
-	</StyleMap>
+	<Style id="roman10100">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
 	<StyleMap id="roman_republic41">
 		<Pair>
 			<key>normal</key>
@@ -433,7 +360,17 @@
 			<styleUrl>#roman2502</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="roman1022">
+	<StyleMap id="roman_republic44">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#roman1023</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#roman2500</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="roman26">
 		<LineStyle>
 			<color>ff0200b8</color>
 			<width>2</width>
@@ -442,7 +379,98 @@
 			<color>660200b8</color>
 		</PolyStyle>
 	</Style>
-	<Style id="roman1021">
+	<Style id="roman1040">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
+	<Style id="roman104">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
+	<Style id="roman24">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
+	<Style id="roman22">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="roman_republic51">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#roman10100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#roman2200</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="roman2501">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
+	<Style id="roman2100">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
+	<Style id="roman11">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
+	<Style id="roman250">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
+	<Style id="roman2503">
+		<LineStyle>
+			<color>ff0200b8</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660200b8</color>
+		</PolyStyle>
+	</Style>
+	<Style id="roman103">
 		<LineStyle>
 			<color>ff0200b8</color>
 			<width>2</width>
@@ -1686,7 +1714,6 @@
 				</Folder>
 				<Folder>
 					<name>Eastern Europe</name>
-					<open>1</open>
 					<Folder>
 						<name>133 BC - Agean Islands</name>
 						<TimeSpan>
@@ -1803,7 +1830,7 @@
 						<open>1</open>
 						<TimeSpan>
 							<begin>-014</begin>
-							<end>46</end>
+							<end>0046</end>
 						</TimeSpan>
 						<styleUrl>#roman_republic2</styleUrl>
 						<Polygon>
@@ -1821,7 +1848,7 @@
 						<name>46 AD - Thrace</name>
 						<open>1</open>
 						<TimeSpan>
-							<begin>46</begin>
+							<begin>0046</begin>
 							<end>0406</end>
 						</TimeSpan>
 						<styleUrl>#roman_republic20</styleUrl>
@@ -1839,9 +1866,9 @@
 				</Folder>
 				<Folder>
 					<name>Germania</name>
+					<open>1</open>
 					<Placemark>
 						<name>12 BC - Germania Minor</name>
-						<visibility>0</visibility>
 						<TimeSpan>
 							<begin>-012</begin>
 							<end>0005</end>
@@ -1934,7 +1961,7 @@
 						<name>43 AD - South Germania</name>
 						<TimeSpan>
 							<begin>0043</begin>
-							<end>0410</end>
+							<end>073</end>
 						</TimeSpan>
 						<styleUrl>#roman_republic5</styleUrl>
 						<Polygon>
@@ -1943,6 +1970,25 @@
 								<LinearRing>
 									<coordinates>
 										7.180855970380351,46.94355114446876,0 7.977215818537622,46.58499759095243,0 11.64051209578751,46.99997101971839,0 12.67365785488624,47.11494436135258,0 12.92810736678139,46.85255603316231,0 13.10408983920173,46.91872809967531,0 13.88637004293462,46.60739448003688,0 14.16549737683635,46.53094811125099,0 14.50968311285289,46.56959657855164,0 14.65434967689304,46.65231840774926,0 14.87129750608313,46.64986483310273,0 15.04588126037546,46.59416725856271,0 15.65403769003733,46.55212299142361,0 15.94928298856395,46.38648704374187,0 16.14711689696641,46.39084617741302,0 16.29992017717538,46.36050435431559,0 16.41317061273351,46.29530721145187,0 16.84137946557558,46.30784162633466,0 17.33163221438116,45.99009671293422,0 17.70433559619149,45.82884378515133,0 18.17505047992416,45.77015889025238,0 18.71082027388631,45.56422519752256,0 19.0408039683109,45.53278270337581,0 18.84454890879844,45.91968843914911,0 18.66401284434374,46.02738045244178,0 18.92211821533026,46.16670071801499,0 18.88114263051309,46.63117102769702,0 19.02300709177797,46.69538524296404,0 18.94614975510184,46.86540034223971,0 18.96261965866878,47.02534098800871,0 18.88613391958447,47.1910509629629,0 19.04159593281652,47.38933783316839,0 19.10883927106339,47.79028123856795,0 19.00824212511233,47.81215853875289,0 18.87855880409001,47.77678580789959,0 18.78622365000153,47.82311071882862,0 18.1619206532364,47.74524361337786,0 17.78440034824266,47.73804303248812,0 17.32326913787211,47.99837611200455,0 17.13256210946941,48.12988034132583,0 16.97000871517664,48.17195768541282,0 16.8691273334597,48.12727434534608,0 16.55702695747195,48.13709603577797,0 16.34692051900371,48.28820238427276,0 16.29952121553797,48.3485419743938,0 16.06715978850733,48.33495742836572,0 15.82113690548316,48.37468674591766,0 15.52570013309865,48.38632888744723,0 15.50451506826043,48.4105481793972,0 15.40084580401318,48.34698782636713,0 15.40614629512588,48.28640977137655,0 15.31447719758671,48.22974217847997,0 15.11546317348437,48.200844898088,0 15.11216733811549,48.17086591215918,0 15.05430889601447,48.19132451203307,0 14.97174507487298,48.19551788542874,0 14.93803119745026,48.22982554635161,0 14.86577466962239,48.22758968317692,0 14.83496611771599,48.18801599643205,0 14.66489421304783,48.16850404814026,0 14.57568355524589,48.22825011550091,0 14.50029966531323,48.24242660840834,0 14.45927146305873,48.23575782103342,0 14.3418965620091,48.28562010821933,0 14.31482248543377,48.32334123217726,0 14.25187977305642,48.29993084434641,0 14.18859585819217,48.33203314654602,0 14.11549885820427,48.31354309310452,0 14.0287987369194,48.33715204458221,0 14.03372770931382,48.37175918738542,0 13.99431069604442,48.41924144732911,0 13.93336867039616,48.41205848062873,0 13.9122174242938,48.45213658170777,0 13.8581815238144,48.44743761864561,0 13.8726099169909,48.42666141301344,0 13.78105989437927,48.47384662469815,0 13.71790860865509,48.51718255391097,0 13.59250206366973,48.5689472159749,0 13.58222851365551,48.56056494552124,0 13.51076920067124,48.58780747921553,0 13.49200591787289,48.57576276336345,0 13.46906383046069,48.57195959031467,0 13.36351880513786,48.59873937950535,0 13.25374913611485,48.61067807468089,0 13.13041241976207,48.66140106928395,0 13.02397937282618,48.72939126678705,0 12.96871264782006,48.80642774558002,0 12.64036200371002,48.90488802913847,0 12.55717940455514,48.90297102629862,0 12.47920244599746,48.95860294397553,0 12.391088851603,48.9792978013487,0 12.33809863902906,48.98246825072892,0 12.30433248054369,49.01751367398442,0 12.12884215668802,49.02090222599598,0 12.04137014463395,49.01850483622997,0 12.00795953054966,48.92845819630739,0 11.87449590678289,48.91209821879101,0 11.73793217405766,48.81885329523727,0 11.3700006477204,48.73919136798111,0 10.90683043805764,48.72450975893702,0 10.86733567455174,48.49922950213801,0 10.9604537209605,48.29770701046153,0 10.85026583312583,48.11390837126697,0 10.86341294842566,48.00125045607821,0 9.053781687020667,47.64273723853726,0 8.636789083891829,47.68604097355268,0 8.558436792842585,47.55241856877977,0 8.197369206088364,47.61289969082687,0 8.087403690730067,47.56117335467318,0 7.94638601110284,47.5558739437818,0 7.869953883897283,47.58024159152526,0 7.657682241269321,47.52336933575434,0 7.597607839107196,47.59418311667565,0 7.180855970380351,46.94355114446876,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark>
+						<name>73 AD - Via Germania</name>
+						<open>1</open>
+						<TimeSpan>
+							<begin>0073</begin>
+							<end>0410</end>
+						</TimeSpan>
+						<styleUrl>#roman_republic51</styleUrl>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										7.180855970380351,46.94355114446876,0 7.977215818537622,46.58499759095243,0 11.64051209578751,46.99997101971839,0 12.67365785488624,47.11494436135258,0 12.92810736678139,46.85255603316231,0 13.10408983920173,46.91872809967531,0 13.88637004293462,46.60739448003688,0 14.16549737683635,46.53094811125099,0 14.50968311285289,46.56959657855164,0 14.65434967689304,46.65231840774926,0 14.87129750608313,46.64986483310273,0 15.04588126037546,46.59416725856271,0 15.65403769003733,46.55212299142361,0 15.94928298856395,46.38648704374187,0 16.14711689696641,46.39084617741302,0 16.29992017717538,46.36050435431559,0 16.41317061273351,46.29530721145187,0 16.84137946557558,46.30784162633466,0 17.33163221438116,45.99009671293422,0 17.70433559619149,45.82884378515133,0 18.17505047992416,45.77015889025238,0 18.71082027388631,45.56422519752256,0 19.0408039683109,45.53278270337581,0 18.84454890879844,45.91968843914911,0 18.66401284434374,46.02738045244178,0 18.92211821533026,46.16670071801499,0 18.88114263051309,46.63117102769702,0 19.02300709177797,46.69538524296404,0 18.94614975510184,46.86540034223971,0 18.96261965866878,47.02534098800871,0 18.88613391958447,47.1910509629629,0 19.04159593281652,47.38933783316839,0 19.10883927106339,47.79028123856795,0 19.00824212511233,47.81215853875289,0 18.87855880409001,47.77678580789959,0 18.78622365000153,47.82311071882862,0 18.1619206532364,47.74524361337786,0 17.78440034824266,47.73804303248812,0 17.32326913787211,47.99837611200455,0 17.13256210946941,48.12988034132583,0 16.97000871517664,48.17195768541282,0 16.8691273334597,48.12727434534608,0 16.55702695747195,48.13709603577797,0 16.34692051900371,48.28820238427276,0 16.29952121553797,48.3485419743938,0 16.06715978850733,48.33495742836572,0 15.82113690548316,48.37468674591766,0 15.52570013309865,48.38632888744723,0 15.50451506826043,48.4105481793972,0 15.40084580401318,48.34698782636713,0 15.40614629512588,48.28640977137655,0 15.31447719758671,48.22974217847997,0 15.11546317348437,48.200844898088,0 15.11216733811549,48.17086591215918,0 15.05430889601447,48.19132451203307,0 14.97174507487298,48.19551788542874,0 14.93803119745026,48.22982554635161,0 14.86577466962239,48.22758968317692,0 14.83496611771599,48.18801599643205,0 14.66489421304783,48.16850404814026,0 14.57568355524589,48.22825011550091,0 14.50029966531323,48.24242660840834,0 14.45927146305873,48.23575782103342,0 14.3418965620091,48.28562010821933,0 14.31482248543377,48.32334123217726,0 14.25187977305642,48.29993084434641,0 14.18859585819217,48.33203314654602,0 14.11549885820427,48.31354309310452,0 14.0287987369194,48.33715204458221,0 14.03372770931382,48.37175918738542,0 13.99431069604442,48.41924144732911,0 13.93336867039616,48.41205848062873,0 13.9122174242938,48.45213658170777,0 13.8581815238144,48.44743761864561,0 13.8726099169909,48.42666141301344,0 13.78105989437927,48.47384662469815,0 13.71790860865509,48.51718255391097,0 13.59250206366973,48.5689472159749,0 13.58222851365551,48.56056494552124,0 13.51076920067124,48.58780747921553,0 13.49200591787289,48.57576276336345,0 13.46906383046069,48.57195959031467,0 13.36351880513786,48.59873937950535,0 13.25374913611485,48.61067807468089,0 13.13041241976207,48.66140106928395,0 13.02397937282618,48.72939126678705,0 12.96871264782006,48.80642774558002,0 12.64036200371002,48.90488802913847,0 12.55717940455514,48.90297102629862,0 12.47920244599746,48.95860294397553,0 12.391088851603,48.9792978013487,0 12.33809863902906,48.98246825072892,0 12.30433248054369,49.01751367398442,0 12.12884215668802,49.02090222599598,0 12.04137014463395,49.01850483622997,0 12.00795953054966,48.92845819630739,0 11.87449590678289,48.91209821879101,0 11.73793217405766,48.81885329523727,0 11.32524177361554,49.06349778906036,0 10.06801461963381,48.83030806906175,0 9.731107150549153,48.84228994121363,0 9.630791021186351,49.26032708807342,0 9.064175891213582,50.04103582047777,0 8.963885726776228,50.56455387637167,0 8.733636412949897,50.54597541931536,0 8.626228058133833,50.29919338895804,0 8.252030077510145,50.02396076835339,0 8.476709866880888,49.75413616216828,0 8.35691272121819,49.68606171478731,0 8.495192096474184,49.43029498135377,0 8.243240535092848,48.97302572150399,0 7.838378693387398,48.6441132933849,0 7.741763353501023,48.32470076942987,0 7.561020203852344,48.03443609814309,0 7.629802113970023,47.977924716949,0 7.524277275348652,47.68467965518686,0 7.657682241269321,47.52336933575434,0 7.597607839107196,47.59418311667565,0 7.180855970380351,46.94355114446876,0 
 									</coordinates>
 								</LinearRing>
 							</outerBoundaryIs>
